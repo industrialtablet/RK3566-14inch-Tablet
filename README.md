@@ -25,12 +25,36 @@ This is the documentation for RK3566 14inch Tablet products, written by RSD Team
         <td>10-Point capacitive touch</td>
     </tr>  
     <tr>
-        <td rowspan="5">Display</td>
+        <td rowspan="8">Display</td>
         <td>Panel</td>
         <td>14" LCD IPS panel</td>
     </tr>   
     <tr>
         <td>Resolution</td>
         <td>1920*1080</td>
-    </tr>                   
+    </tr>   
+    <tr>
+        <td>Active area</td>
+        <td>309.312(H)x 173.988(V)</td>
+    </tr>  
+    <tr>
+        <td>Viewing angle</td>
+        <td>85/85/85/85(L/R/U/D)</td>
+    </tr>   
+    <tr>
+        <td>Display mode</td>
+        <td>Normally black,IPS</td>
+    </tr>    
+    <tr>
+        <td>Contrast ratio</td>
+        <td>700(Typ.)</td>
+    </tr> 
+    <tr>
+        <td>Luminance</td>
+        <td>250cd/m²(Typ.)</td>
+    </tr> 
+    <tr>
+        <td>Aspect Ratio</td>
+        <td>16:9</td>
+    </tr>                    
 </table>
