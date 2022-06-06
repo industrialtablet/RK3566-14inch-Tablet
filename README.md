@@ -174,3 +174,10 @@ This is the documentation for RK3566 14inch Tablet products, written by RSD Team
         <td>YES</td>
     </tr>                           
 </table>
+
+# Contacts
+- Website: www.we-signage.com
+- https://we-signage.en.made-in-china.com/
+- E-mail: dennis@we-signage.com
+- MP/Whatsapp/Wechat: + 86 13349909990
+- Skype: solled686
