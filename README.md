@@ -178,6 +178,8 @@ This is the documentation for RK3566 14inch Tablet products, written by RSD Team
 
 # Accessories
 
+# How Order
+Send your message to sales team: **<export8@we-signage.com>**
 
 # Contacts
 - Website: www.we-signage.com
