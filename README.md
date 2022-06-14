@@ -176,9 +176,12 @@ This is the documentation for RK3566 14inch Tablet products, written by RSD Team
     </tr>                           
 </table>
 
-# Aging and test video
-# Open and power-on product video
-# Install software from googlePlay video
+# 
+<a href="https://youtu.be/Fi_gvhEwSR4">Aging and test video</a>
+# 
+<a href="https://youtu.be/Fi_gvhEwSR4">Open and power-on product video</a>
+# 
+<a href="https://youtu.be/Fi_gvhEwSR4">Install software from googlePlay video</a>
 
 # Accessories
 
