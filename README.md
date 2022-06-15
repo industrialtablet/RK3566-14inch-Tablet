@@ -183,6 +183,7 @@ This is the documentation for RK3566 14inch Tablet products, written by RSD Team
 # 
 <a href="https://youtu.be/Fi_gvhEwSR4">Install software from googlePlay video</a>
 
+# 
 # Accessories
 
 # How Order
