@@ -4,7 +4,8 @@ This is the documentation for RK3566 14inch Tablet products, written by RSD Team
 # Product information: "HYY Touch Display Tablet 14 Zoll PoE mit 2GB/16GB, RK3566 Android 11"
 # RK3566 14inch Tablet Front View
 ![RK3566 14inch Tablet Front View](RK3566_14inch_tablet_front_view.png?raw=true)
-# RK3566 14inch Tablet Specifications
+# 
+RK3566 14inch Tablet Specifications Sheet
 <table border="1">
     <tr>
         <td colspan="3">Model NO. ALLTAB-14RK3566A11PoE </td>
@@ -175,6 +176,8 @@ This is the documentation for RK3566 14inch Tablet products, written by RSD Team
         <td>YES</td>
     </tr>                           
 </table>
+
+# Motherboare/MainBoard/SBC Spcification
 
 # 
 <a href="https://youtu.be/Fi_gvhEwSR4">Aging and test video</a>
