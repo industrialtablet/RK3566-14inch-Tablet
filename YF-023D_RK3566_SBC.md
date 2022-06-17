@@ -378,13 +378,13 @@ YF-023D RK3566 SBC/mainboard/motherboard Specifications Sheet
         <td>2</td>
         <td>UART-TX</td>
         <td>OUTPUT</td>
-        <td>Data input/output</td>
+        <td>Data output</td>
     </tr>
     <tr>
         <td>3</td>
         <td>UART-RX</td>
         <td>INPUT</td>
-        <td>Data input/output</td>
+        <td>Data input</td>
     </tr>        
     <tr>
         <td>4</td>
@@ -412,13 +412,13 @@ YF-023D RK3566 SBC/mainboard/motherboard Specifications Sheet
         <td>2</td>
         <td>UART-TX</td>
         <td>OUTPUT</td>
-        <td>Data input/output</td>
+        <td>Data output</td>
     </tr>
     <tr>
         <td>3</td>
         <td>UART-RX</td>
         <td>INPUT</td>
-        <td>Data input/output</td>
+        <td>Data input</td>
     </tr>        
     <tr>
         <td>4</td>
@@ -630,6 +630,218 @@ YF-023D RK3566 SBC/mainboard/motherboard Specifications Sheet
         <td>GND</td>
         <td>GND</td>
     </tr>         
+</table>
+
+12. USB Port(CON2/CON3/CON4/CON5-4pin/2.0mm)
+<table border="1">
+    <tr>
+        <td>No.</td>
+        <td>definition</td>
+        <td>attribute</td>
+        <td>Description</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>USB-5V</td>
+        <td>OUTPUT</td>
+        <td>5V output</td>
+    </tr> 
+    <tr>
+        <td>2</td>
+        <td>DM</td>
+        <td>USB Data</td>
+        <td>Data input/output</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>DP</td>
+        <td>USB Data</td>
+        <td>Data input/output</td>
+    </tr>        
+    <tr>
+        <td>4</td>
+        <td>GND</td>
+        <td>GND</td>
+        <td>GND</td>
+    </tr>       
+</table>
+
+13. LVDS (CON14-30pin/2.0mm)
+<table border="1">
+    <tr>
+        <td>No.</td>
+        <td>definition</td>
+        <td>attribute</td>
+        <td>Description</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td rowspan="3">PVCC</td>
+        <td rowspan="3">Power output</td>
+        <td rowspan="3">LCD power output, +3.3V/+5V/+12V option, Set by CN1 snap</td>
+    </tr> 
+    <tr>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>3</td>
+    </tr>        
+    <tr>
+        <td>4</td>
+        <td rowspan="3">GND</td>
+        <td rowspan="3">GND</td>
+        <td rowspan="3">GND</td>
+    </tr>
+    <tr>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>6</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>RXO0-</td>
+        <td>output</td>
+        <td>Pixel0 Negative Data (Odd)</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>RXO0+</td>
+        <td>output</td>
+        <td>Pixel0 Positive Data (Odd)</td>
+    </tr>  
+    <tr>
+        <td>9</td>
+        <td>RXO1-</td>
+        <td>output</td>
+        <td>Pixel1 Negative Data (Odd)</td>
+    </tr> 
+    <tr>
+        <td>10</td>
+        <td>RXO1+</td>
+        <td>output</td>
+        <td>Pixel1 Positive Data (Odd)</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>RXO2-</td>
+        <td>output</td>
+        <td>Pixel2 Negative Data (Odd)</td>
+    </tr> 
+    <tr>
+        <td>12</td>
+        <td>RXO2+</td>
+        <td>output</td>
+        <td>Pixel2 Positive Data (Odd)</td>
+    </tr> 
+    <tr>
+        <td>13</td>
+        <td>GND</td>
+        <td>GND</td>
+        <td>GND</td>
+    </tr> 
+    <tr>
+        <td>14</td>
+        <td>GND</td>
+        <td>GND</td>
+        <td>GND</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>RXOC-</td>
+        <td>output</td>
+        <td>Negative Sampling Clock (Odd)</td>
+    </tr> 
+    <tr>
+        <td>16</td>
+        <td>RXOC+</td>
+        <td>output</td>
+        <td>Positive Sampling Clock (Odd)</td>
+    </tr> 
+    <tr>
+        <td>17</td>
+        <td>RXO3-</td>
+        <td>output</td>
+        <td>Pixel3 Negative Data (Odd)</td>
+    </tr> 
+    <tr>
+        <td>18</td>
+        <td>RXO3+</td>
+        <td>output</td>
+        <td>Pixel3 Positive Data (Odd)</td>
+    </tr>
+    <tr>
+        <td>19</td>
+        <td>PXE0-</td>
+        <td>output</td>
+        <td>Pixel0 Negative Data (Even)</td>
+    </tr> 
+    <tr>
+        <td>20</td>
+        <td>PXE0+</td>
+        <td>output</td>
+        <td>Pixel0 Positive Data (Even)</td>
+    </tr> 
+    <tr>
+        <td>21</td>
+        <td>PXE1-</td>
+        <td>output</td>
+        <td>Pixel1 Negative Data (Even)</td>
+    </tr> 
+    <tr>
+        <td>22</td>
+        <td>PXE1+</td>
+        <td>output</td>
+        <td>Pixel1 Positive Data (Even)</td>
+    </tr> 
+    <tr>
+        <td>23</td>
+        <td>PXE2-</td>
+        <td>output</td>
+        <td>Pixel2 Negative Data (Even)</td>
+    </tr> 
+    <tr>
+        <td>24</td>
+        <td>PXE2+</td>
+        <td>output</td>
+        <td>Pixel2 Positive Data (Even)</td>
+    </tr>
+    <tr>
+        <td>25</td>
+        <td>GND</td>
+        <td>GND</td>
+        <td>GND</td>
+    </tr> 
+    <tr>
+        <td>26</td>
+        <td>GND</td>
+        <td>GND</td>
+        <td>GND</td>
+    </tr> 
+    <tr>
+        <td>27</td>
+        <td>PXEC-</td>
+        <td>output</td>
+        <td> Negative Sampling Clock (Even)</td>
+    </tr> 
+    <tr>
+        <td>28</td>
+        <td>PXEC+</td>
+        <td>output</td>
+        <td>Positive Sampling Clock (Even)</td>
+    </tr>
+    <tr>
+        <td>29</td>
+        <td>PXE3-</td>
+        <td>output</td>
+        <td>Pixel3 Negative Data (Even)</td>
+    </tr> 
+    <tr>
+        <td>30</td>
+        <td>PXE3+</td>
+        <td>output</td>
+        <td>Pixel3 Positive Data (Even)</td>
+    </tr>                                                   
 </table>
 
 
