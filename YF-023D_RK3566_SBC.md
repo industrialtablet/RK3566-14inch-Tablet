@@ -1101,6 +1101,196 @@ YF-023D RK3566 SBC/mainboard/motherboard Specifications Sheet
     </tr>                                 
 </table>
 
+15. eDP LCD Panel (CN3-FPC30pin/0.5mm)
+<table border="1">
+    <tr>
+        <td>No.</td>
+        <td>definition</td>
+        <td>attribute</td>
+        <td>Description</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>APS_EN</td>
+        <td>APS_EN Signal</td>
+        <td>APS on/off or No connection (optional)</td>
+    </tr> 
+    <tr>
+        <td>2</td>
+        <td>H_GND</td>
+        <td>H_GND</td>
+        <td>High Speed Ground</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Lane1_N</td>
+        <td>Lane1_N</td>
+        <td>Complement Signal Link Lane 1</td>
+    </tr>        
+    <tr>
+        <td>4</td>
+        <td>Lane1_P</td>
+        <td>Lane1_P</td>
+        <td>True Signal Link Lane 1</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>H_GND</td>
+        <td>H_GND</td>
+        <td>H_GND</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>Lane0_N</td>
+        <td>Lane0_N</td>
+        <td>Complement Signal Link Lane 0</td>
+    </tr>        
+    <tr>
+        <td>7</td>
+        <td>Lane0_P</td>
+        <td>Lane0_P</td>
+        <td>True Signal Link Lane 0</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>H_GND</td>
+        <td>H_GND</td>
+        <td>H_GND</td>
+    </tr>  
+    <tr>
+        <td>9</td>
+        <td>AUX_CH_P</td>
+        <td>AUX_CH_P</td>
+        <td>True Signal Auxiliary Channel</td>
+    </tr> 
+    <tr>
+        <td>10</td>
+        <td>AUX_CH_N</td>
+        <td>AUX_CH_N</td>
+        <td>Complement Signal Auxiliary Channel</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>H_GND</td>
+        <td>H_GND</td>
+        <td>H_GND</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>LCD_VCC</td>
+        <td>LCD_VCC</td>
+        <td>LCD logic and driver power</td>
+    </tr> 
+    <tr>
+        <td>13</td>
+        <td>LCD_VCC</td>
+        <td>LCD_VCC</td>
+        <td>LCD logic and driver power</td>
+    </tr> 
+    <tr>
+        <td>14</td>
+        <td>LCD_Self_Test</td>
+        <td>LCD_Self_Test</td>
+        <td>LCD Panel Self-Test Enable</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>LCD_GND</td>
+        <td>LCD_GND</td>
+        <td>LCD logic and driver ground</td>
+    </tr> 
+    <tr>
+        <td>16</td>
+        <td>LCD_GND</td>
+        <td>LCD_GND</td>
+        <td>LCD logic and driver ground</td>
+    </tr> 
+    <tr>
+        <td>17</td>
+        <td>HPD</td>
+        <td>HPD</td>
+        <td>Hot Plug Detect</td>
+    </tr> 
+    <tr>
+        <td>18</td>
+        <td>BL_GND</td>
+        <td>BL_GND</td>
+        <td>Backlight Ground</td>
+    </tr>
+    <tr>
+        <td>19</td>
+        <td>BL_GND</td>
+        <td>BL_GND</td>
+        <td>Backlight Ground</td>
+    </tr> 
+    <tr>
+        <td>20</td>
+        <td>BL_GND</td>
+        <td>BL_GND</td>
+        <td>Backlight Ground</td>
+    </tr> 
+    <tr>
+        <td>21</td>
+        <td>BL_GND</td>
+        <td>BL_GND</td>
+        <td>Backlight Ground</td>
+    </tr> 
+    <tr>
+        <td>22</td>
+        <td>BL_ENABLE</td>
+        <td>BL_ENABLE</td>
+        <td>Backlight on/off</td>
+    </tr> 
+    <tr>
+        <td>23</td>
+        <td>BL_PWM_DIM</td>
+        <td>BL_PWM_DIM</td>
+        <td>System PWM signal input for dimming</td>
+    </tr> 
+    <tr>
+        <td>24</td>
+        <td>NC (WPN)</td>
+        <td>NC (WPN)</td>
+        <td>Reserved for the use by LCD manufacturer (WPN)</td>
+    </tr>
+    <tr>
+        <td>25</td>
+        <td>NC</td>
+        <td>NC</td>
+        <td>NC</td>
+    </tr> 
+    <tr>
+        <td>26</td>
+        <td>BL_PWR</td>
+        <td>BL_PWR</td>
+        <td>Backlight power</td>
+    </tr> 
+    <tr>
+        <td>27</td>
+        <td>BL_PWR</td>
+        <td>BL_PWR</td>
+        <td>Backlight power</td>
+    </tr> 
+    <tr>
+        <td>28</td>
+        <td>BL_PWR</td>
+        <td>BL_PWR</td>
+        <td>Backlight power</td>
+    </tr>
+    <tr>
+        <td>29</td>
+        <td>BL_PWR</td>
+        <td>BL_PWR</td>
+        <td>Backlight power</td>
+    </tr> 
+    <tr>
+        <td>30</td>
+        <td>NC</td>
+        <td>NC</td>
+        <td>CLR_EN on/off or No connection (optional)</td>
+    </tr>                                                   
+</table>
+
 
 # 
 <a href="https://youtu.be/Fi_gvhEwSR4">Aging and test video</a>
