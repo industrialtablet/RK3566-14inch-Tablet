@@ -6,7 +6,7 @@ This is the documentation for RK3566 14inch Tablet products, written by RSD Team
 ![RK3566 14inch Tablet Front View](RK3566_14inch_tablet_front_view.png?raw=true)
 #
 # RK3566 14inch Tablet MainBoard
-![RK3566 14inch Tablet MainBoard](YF0-23D_RK3566_SBC_front_view.png?raw=true)
+![RK3566 14inch Tablet MainBoard](YF0-23D_RK3566_SBC_TOP_view.png?raw=true)
 # 
 RK3566 14inch Tablet Specifications Sheet
 <table border="1">
