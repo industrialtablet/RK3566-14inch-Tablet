@@ -177,16 +177,15 @@ RK3566 14inch Tablet Specifications Sheet
     </tr>                           
 </table>
 
-# Motherboare/MainBoard/SBC Spcification Sheet
+#
+# [YF-023D RK3566 SBC/mainboard/motherboard Specifications Sheet](YF-023D.md)
+ 
+# <a href="https://youtu.be/Fi_gvhEwSR4">Aging and test video</a>
+ 
+# <a href="https://youtu.be/Fi_gvhEwSR4">Open and power-on product video</a>
+ 
+# <a href="https://youtu.be/Fi_gvhEwSR4">Install software from googlePlay video</a>
 
-# 
-<a href="https://youtu.be/Fi_gvhEwSR4">Aging and test video</a>
-# 
-<a href="https://youtu.be/Fi_gvhEwSR4">Open and power-on product video</a>
-# 
-<a href="https://youtu.be/Fi_gvhEwSR4">Install software from googlePlay video</a>
-
-# 
 # Accessories
 
 # How Order
