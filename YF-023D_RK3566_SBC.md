@@ -244,7 +244,7 @@ This is the documentation for RK3566 14inch Tablet products, written by RSD Team
     </tr>       
 </table>
 
-2. Working led light and IR 6p-1.25(CON14)
+2. Working led light and IR (CON14-6p/1.25mm)
 <table border="1">
     <tr>
         <td>No.</td>
@@ -290,7 +290,7 @@ This is the documentation for RK3566 14inch Tablet products, written by RSD Team
     </tr>                          
 </table>
 
-3. IIC Touch interface(JP1-10P/0.5)
+3. IIC Touch interface(JP1-10P/0.5mm)
 <table border="1">
     <tr>
         <td>No.</td>
@@ -360,6 +360,39 @@ This is the documentation for RK3566 14inch Tablet products, written by RSD Team
     </tr>                                      
 </table>
 
+4. UART TTL Serial Port(CON15/CON16/CON18)
+<table border="1">
+    <tr>
+        <td>No.</td>
+        <td>definition</td>
+        <td>attribute</td>
+        <td>Description</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>VCC-3.3V</td>
+        <td>OUTPUT</td>
+        <td>3.3V output</td>
+    </tr> 
+    <tr>
+        <td>2</td>
+        <td>UART-TX</td>
+        <td>INPUT/OUTPUT</td>
+        <td>Data input/output</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>UART-RX</td>
+        <td>INPUT/OUTPUT</td>
+        <td>Data input/output</td>
+    </tr>        
+    <tr>
+        <td>4</td>
+        <td>GND</td>
+        <td>GND</td>
+        <td>GND</td>
+    </tr>       
+</table>
 # 
 <a href="https://youtu.be/Fi_gvhEwSR4">Aging and test video</a>
 # 
