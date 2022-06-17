@@ -223,8 +223,8 @@ This is the documentation for RK3566 14inch Tablet products, written by RSD Team
 ## Interface Pin definition
 BAT1 RTC(J2)
 <table border="1">
-    <tr bgcolor="#C0FF3E">
-        <td>No.</td>
+    <tr>
+        <td bgcolor="#C0FF3E">No.</td>
         <td>definition</td>
         <td>attribute</td>
         <td>Description</td>
