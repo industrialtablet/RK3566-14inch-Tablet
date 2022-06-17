@@ -673,7 +673,7 @@ YF-023D RK3566 SBC/mainboard/motherboard Specifications Sheet
     </tr>       
 </table>
 
-13. LVDS (CON14-30pin/2.0mm)
+13. LVDS LCD Panel (CON14-30pin/2.0mm)
 <table border="1">
     <tr>
         <td>No.</td>
@@ -849,6 +849,256 @@ YF-023D RK3566 SBC/mainboard/motherboard Specifications Sheet
         <td>output</td>
         <td>Pixel3 Positive Data (Even)</td>
     </tr>                                                   
+</table>
+
+14. MIPI LCD Panel (CN2-FPC40pin/0.5mm)
+<table border="1">
+    <tr>
+        <td>No.</td>
+        <td>definition</td>
+        <td>attribute</td>
+        <td>Description</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>NC</td>
+        <td>NC</td>
+        <td>No Connection</td>
+    </tr> 
+    <tr>
+        <td>2</td>
+        <td>VDD</td>
+        <td>LCD power supply</td>
+        <td>Power supply VDDIN=3.3V</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>VDD</td>
+        <td>LCD power supply</td>
+        <td>Power supply VDDIN=3.3V</td>
+    </tr>        
+    <tr>
+        <td>4</td>
+        <td>GND</td>
+        <td>GND</td>
+        <td>GND</td>
+    </tr>   
+    <tr>
+        <td>5</td>
+        <td>RESET</td>
+        <td>LCD RESET signal</td>
+        <td>Global reset signal(3.3)</td>
+    </tr> 
+    <tr>
+        <td>6</td>
+        <td>NC</td>
+        <td>NC</td>
+        <td>No Connection</td>
+    </tr> 
+    <tr>
+        <td>7</td>
+        <td>GND</td>
+        <td>GND</td>
+        <td>GND</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>D0N</td>
+        <td>LCD D0N data signal</td>
+        <td>0- MIPI Differential data</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>D0P</td>
+        <td>LCD D0P data signal</td>
+        <td>0+MIPI Differential data</td>
+    </tr> 
+    <tr>
+        <td>10</td>
+        <td>GND</td>
+        <td>GND</td>
+        <td>GND</td>
+    </tr> 
+    <tr>
+        <td>11</td>
+        <td>D1N</td>
+        <td>LCD D1N data signal</td>
+        <td>1- MIPI Differential data</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>D1P</td>
+        <td>LCD D1P data signal</td>
+        <td>1+ MIPI Differential data</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>GND</td>
+        <td>GND</td>
+        <td>GND</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>CLKN</td>
+        <td>LCD CLKN clock signal</td>
+        <td>-MIPI Differential clock data</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>CLKP</td>
+        <td>LCD CLKP clock signal</td>
+        <td>+MIPI Differential clock data</td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td>GND</td>
+        <td>GND</td>
+        <td>GND</td>
+    </tr>
+    <tr>
+        <td>17</td>
+        <td>D2N</td>
+        <td>LCD D2N data signal</td>
+        <td>2- MIPI Differential data</td>
+    </tr>
+    <tr>
+        <td>18</td>
+        <td>D1P</td>
+        <td>LCD D2P data signal</td>
+        <td>2+ MIPI Differential data</td>
+    </tr> 
+    <tr>
+        <td>19</td>
+        <td>GND</td>
+        <td>GND</td>
+        <td>GND</td>
+    </tr>
+    <tr>
+        <td>20</td>
+        <td>D3N</td>
+        <td>LCD D3N data signal</td>
+        <td>3- MIPI Differential data</td>
+    </tr>
+    <tr>
+        <td>21</td>
+        <td>D3P</td>
+        <td>LCD D3P data signal</td>
+        <td>3+ MIPI Differential data</td>
+    </tr>
+    <tr>
+        <td>22</td>
+        <td>GND</td>
+        <td>GND</td>
+        <td>GND</td>
+    </tr>
+    <tr>
+        <td>23</td>
+        <td>NC</td>
+        <td>NC</td>
+        <td>NC</td>
+    </tr> 
+    <tr>
+        <td>24</td>
+        <td>NC</td>
+        <td>NC</td>
+        <td>NC</td>
+    </tr>
+    <tr>
+        <td>25</td>
+        <td>GND</td>
+        <td>GND</td>
+        <td>GND</td>
+    </tr> 
+    <tr>
+        <td>26</td>
+        <td>NC</td>
+        <td>NC</td>
+        <td>NC</td>
+    </tr>
+    <tr>
+        <td>27</td>
+        <td>NC</td>
+        <td>NC</td>
+        <td>NC</td>
+    </tr> 
+    <tr>
+        <td>28</td>
+        <td>NC</td>
+        <td>NC</td>
+        <td>NC</td>
+    </tr>
+    <tr>
+        <td>29</td>
+        <td>NC</td>
+        <td>NC</td>
+        <td>NC</td>
+    </tr> 
+    <tr>
+        <td>30</td>
+        <td>GND</td>
+        <td>GND</td>
+        <td>GND</td>
+    </tr> 
+    <tr>
+        <td>31</td>
+        <td>LED-</td>
+        <td>LCD backlight LED-</td>
+        <td>LED Cathode</td>
+    </tr>  
+    <tr>
+        <td>32</td>
+        <td>LED-</td>
+        <td>LCD backlight LED-</td>
+        <td>LED Cathode</td>
+    </tr>
+    <tr>
+        <td>33</td>
+        <td>NC</td>
+        <td>NC</td>
+        <td>NC</td>
+    </tr> 
+    <tr>
+        <td>34</td>
+        <td>NC</td>
+        <td>NC</td>
+        <td>NC</td>
+    </tr>
+    <tr>
+        <td>35</td>
+        <td>NC</td>
+        <td>NC</td>
+        <td>NC</td>
+    </tr>
+    <tr>
+        <td>36</td>
+        <td>NC</td>
+        <td>NC</td>
+        <td>NC</td>
+    </tr> 
+    <tr>
+        <td>37</td>
+        <td>NC</td>
+        <td>NC</td>
+        <td>NC</td>
+    </tr>
+    <tr>
+        <td>38</td>
+        <td>NC</td>
+        <td>NC</td>
+        <td>NC</td>
+    </tr>
+    <tr>
+        <td>39</td>
+        <td>LED+</td>
+        <td>LCD backlight LED+</td>
+        <td>LED Anode</td>
+    </tr>  
+    <tr>
+        <td>40</td>
+        <td>LED+</td>
+        <td>LCD backlight LED+</td>
+        <td>LED Anode</td>
+    </tr>                                 
 </table>
 
 
