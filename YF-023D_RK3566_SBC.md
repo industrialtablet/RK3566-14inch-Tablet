@@ -1,4 +1,4 @@
-# RK3566 14inch Tablet
+# YF-023D RK3566 SBC/mainboard/motherboard Documents
 This is the documentation for RK3566 14inch Tablet products, written by RSD Team of HYY Technology Co.,Ltd.
 
 # YF-023D RK3566 SBC/mainboard/motherboard Front View
