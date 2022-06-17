@@ -7,7 +7,7 @@ This is the documentation for RK3566 14inch Tablet products, written by RSD Team
 #
 # RK3566 14inch Tablet MainBoard
 - [YF-023D RK3566 SBC/mainboard/motherboard Specifications Sheet](YF-023D_RK3566_SBC.md)
-![RK3566 14inch Tablet MainBoard](YF0-23D_RK3566_SBC_TOP_view.png?raw=true)
+![RK3566 14inch Tablet MainBoard](YF-023D_RK3566_SBC_Product_view.png?raw=true)
 # 
 RK3566 14inch Tablet Specifications Sheet
 <table border="1">
