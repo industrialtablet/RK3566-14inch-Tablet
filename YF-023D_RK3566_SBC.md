@@ -911,7 +911,7 @@ YF-023D RK3566 SBC/mainboard/motherboard Specifications Sheet
         <td>9</td>
         <td>D0P</td>
         <td>LCD D0P data signal</td>
-        <td>0+MIPI Differential data</td>
+        <td>0+ MIPI Differential data</td>
     </tr> 
     <tr>
         <td>10</td>
@@ -941,13 +941,13 @@ YF-023D RK3566 SBC/mainboard/motherboard Specifications Sheet
         <td>14</td>
         <td>CLKN</td>
         <td>LCD CLKN clock signal</td>
-        <td>-MIPI Differential clock data</td>
+        <td>MIPI Differential clock data</td>
     </tr>
     <tr>
         <td>15</td>
         <td>CLKP</td>
         <td>LCD CLKP clock signal</td>
-        <td>+MIPI Differential clock data</td>
+        <td>MIPI Differential clock data</td>
     </tr>
     <tr>
         <td>16</td>
