@@ -428,7 +428,7 @@ This is the documentation for RK3566 14inch Tablet products, written by RSD Team
     </tr>       
 </table>
 
-6. SPEAKER Port(CON10-4pin/1.25mm)
+6. SPEAKER Port(CON10-4pin/2.0mm)
 <table border="1">
     <tr>
         <td>No.</td>
@@ -460,6 +460,176 @@ This is the documentation for RK3566 14inch Tablet products, written by RSD Team
         <td>OUTPUT</td>
         <td>audio output right-</td>
     </tr>       
+</table>
+
+7. MIC(MIC1-2pin/2.0mm)
+<table border="1">
+    <tr>
+        <td>No.</td>
+        <td>definition</td>
+        <td>attribute</td>
+        <td>Description</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>MICN</td>
+        <td>OUTPUT</td>
+        <td>MIC+</td>
+    </tr> 
+    <tr>
+        <td>2</td>
+        <td>MICP</td>
+        <td>OUTPUT</td>
+        <td>MIC-</td>
+    </tr>      
+</table>
+
+8. LCD Backlight(CON7-6pin/2.0mm)
+<table border="1">
+    <tr>
+        <td>No.</td>
+        <td>definition</td>
+        <td>attribute</td>
+        <td>Description</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>VCC</td>
+        <td>Power</td>
+        <td>12V output</td>
+    </tr> 
+    <tr>
+        <td>2</td>
+        <td>VCC</td>
+        <td>Power</td>
+        <td>12V output</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>BL-EN</td>
+        <td>OUTPUT</td>
+        <td>LCD backlight enable</td>
+    </tr>        
+    <tr>
+        <td>4</td>
+        <td>BL-ADJ</td>
+        <td>OUTPUT</td>
+        <td>LCD backlight brightness adjust</td>
+    </tr> 
+    <tr>
+        <td>5</td>
+        <td>GND</td>
+        <td>GND</td>
+        <td>GND</td>
+    </tr> 
+    <tr>
+        <td>6</td>
+        <td>GND</td>
+        <td>GND</td>
+        <td>GND</td>
+    </tr>              
+</table>
+
+9. GPIO Control(CON13-6pin/1.25mm)
+<table border="1">
+    <tr>
+        <td>No.</td>
+        <td>definition</td>
+        <td>attribute</td>
+        <td>Description</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>VCC</td>
+        <td>Power</td>
+        <td>3.3V output</td>
+    </tr> 
+    <tr>
+        <td>2</td>
+        <td>input and output</td>
+        <td>I/O</td>
+        <td>GPIO-1</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>input and output</td>
+        <td>I/O</td>
+        <td>GPIO-2</td>
+    </tr>        
+    <tr>
+        <td>4</td>
+        <td>input and output</td>
+        <td>I/O</td>
+        <td>GPIO-3</td>
+    </tr> 
+    <tr>
+        <td>5</td>
+        <td>input and output</td>
+        <td>I/O</td>
+        <td>GPIO-3</td>
+    </tr> 
+    <tr>
+        <td>6</td>
+        <td>GND</td>
+        <td>GND</td>
+        <td>GND</td>
+    </tr>              
+</table>
+
+10. Sensor GPIO Control(CN4-3pin/1.25mm)
+<table border="1">
+    <tr>
+        <td>No.</td>
+        <td>definition</td>
+        <td>attribute</td>
+        <td>Description</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>input and output</td>
+        <td>I/O</td>
+        <td>SENSOR</td>
+    </tr> 
+    <tr>
+        <td>2</td>
+        <td>GND</td>
+        <td>GND</td>
+        <td>GND</td>
+    </tr>  
+    <tr>
+        <td>3</td>
+        <td>VCC</td>
+        <td>Power</td>
+        <td>5V output</td>
+    </tr>         
+</table>
+
+11. AD Key(J7-3pin/1.25mm)
+<table border="1">
+    <tr>
+        <td>No.</td>
+        <td>definition</td>
+        <td>attribute</td>
+        <td>Description</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>PWR</td>
+        <td>Power ON/OFF key</td>
+        <td>Power ON/OFF key</td>
+    </tr> 
+    <tr>
+        <td>2</td>
+        <td>AD Key</td>
+        <td>AD Key</td>
+        <td>AD Key</td>
+    </tr>  
+    <tr>
+        <td>3</td>
+        <td>GND</td>
+        <td>GND</td>
+        <td>GND</td>
+    </tr>         
 </table>
 
 
