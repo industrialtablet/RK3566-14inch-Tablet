@@ -360,7 +360,7 @@ This is the documentation for RK3566 14inch Tablet products, written by RSD Team
     </tr>                                      
 </table>
 
-4. UART TTL Serial Port(CON15/CON16/CON18)
+4. UART TTL Serial Port(CON15/CON16/CON18-4pin/1.25mm)
 <table border="1">
     <tr>
         <td>No.</td>
@@ -377,13 +377,13 @@ This is the documentation for RK3566 14inch Tablet products, written by RSD Team
     <tr>
         <td>2</td>
         <td>UART-TX</td>
-        <td>INPUT/OUTPUT</td>
+        <td>OUTPUT</td>
         <td>Data input/output</td>
     </tr>
     <tr>
         <td>3</td>
         <td>UART-RX</td>
-        <td>INPUT/OUTPUT</td>
+        <td>INPUT</td>
         <td>Data input/output</td>
     </tr>        
     <tr>
@@ -393,12 +393,84 @@ This is the documentation for RK3566 14inch Tablet products, written by RSD Team
         <td>GND</td>
     </tr>       
 </table>
+
+5. RS232 Serial Port(CON20-4pin/1.25mm)
+<table border="1">
+    <tr>
+        <td>No.</td>
+        <td>definition</td>
+        <td>attribute</td>
+        <td>Description</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>VCC-5V</td>
+        <td>OUTPUT</td>
+        <td>3.3V output</td>
+    </tr> 
+    <tr>
+        <td>2</td>
+        <td>UART-TX</td>
+        <td>OUTPUT</td>
+        <td>Data input/output</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>UART-RX</td>
+        <td>INPUT</td>
+        <td>Data input/output</td>
+    </tr>        
+    <tr>
+        <td>4</td>
+        <td>GND</td>
+        <td>GND</td>
+        <td>GND</td>
+    </tr>       
+</table>
+
+6. SPEAKER Port(CON10-4pin/1.25mm)
+<table border="1">
+    <tr>
+        <td>No.</td>
+        <td>definition</td>
+        <td>attribute</td>
+        <td>Description</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>OUTL+</td>
+        <td>OUTPUT</td>
+        <td>audio output left+</td>
+    </tr> 
+    <tr>
+        <td>2</td>
+        <td>OUTL-</td>
+        <td>OUTPUT</td>
+        <td>audio output left-</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>OUTR+</td>
+        <td>OUTPUT</td>
+        <td>audio output right+</td>
+    </tr>        
+    <tr>
+        <td>4</td>
+        <td>OUTR-</td>
+        <td>OUTPUT</td>
+        <td>audio output right-</td>
+    </tr>       
+</table>
+
+
 # 
 <a href="https://youtu.be/Fi_gvhEwSR4">Aging and test video</a>
 # 
 <a href="https://youtu.be/Fi_gvhEwSR4">Open and power-on product video</a>
 # 
 <a href="https://youtu.be/Fi_gvhEwSR4">Install software from googlePlay video</a>
+
+
 
 # 
 ## Accessories

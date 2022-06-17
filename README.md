@@ -190,6 +190,13 @@ RK3566 14inch Tablet Specifications Sheet
 # <a href="https://youtu.be/Fi_gvhEwSR4">Install software from googlePlay video</a>
 
 # Accessories
+![RK3566 14inch Tablet Accessories 1](RK3566_14inch_tablet_accessories1.png?raw=true)
+
+![RK3566 14inch Tablet Accessories 2](RK3566_14inch_tablet_accessories2.png?raw=true)
+
+![RK3566 14inch Tablet Accessories 3](RK3566_14inch_tablet_accessories3.png?raw=true)
+
+![RK3566 14inch Tablet Accessories 4](RK3566_14inch_tablet_accessories4.png?raw=true)
 
 # How Order
 Send your message to sales team: **<export8@we-signage.com>**
