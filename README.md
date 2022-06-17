@@ -24,11 +24,11 @@ RK3566 14inch Tablet Specifications Sheet
     </tr>
     <tr>
         <td>RAM</td>
-        <td>2GB</td>
+        <td>2GB(4GB option)</td>
     </tr>
     <tr>
         <td>ROM</td>
-        <td>16GB</td>
+        <td>16GB(32GB option)</td>
     </tr>
     <tr>
         <td>System</td>
