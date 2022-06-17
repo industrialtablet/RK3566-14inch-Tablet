@@ -221,10 +221,11 @@ This is the documentation for RK3566 14inch Tablet products, written by RSD Team
 </table>
 
 ## Interface Pin definition
-BAT1 RTC(J2)
+
+1. BAT1 RTC(J2)
 <table border="1">
     <tr>
-        <td bgcolor="#C0FF3E">No.</td>
+        <td>No.</td>
         <td>definition</td>
         <td>attribute</td>
         <td>Description</td>
@@ -241,6 +242,122 @@ BAT1 RTC(J2)
         <td>GND</td>
         <td>GND</td>
     </tr>       
+</table>
+
+2. Working led light and IR 6p-1.25(CON14)
+<table border="1">
+    <tr>
+        <td>No.</td>
+        <td>definition</td>
+        <td>attribute</td>
+        <td>Description</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>LED-R</td>
+        <td>RED</td>
+        <td>Power OFF light</td>
+    </tr> 
+    <tr>
+        <td>2</td>
+        <td>GND</td>
+        <td>GND</td>
+        <td>GND</td>
+    </tr>  
+    <tr>
+        <td>3</td>
+        <td>LED-G</td>
+        <td>GREEN</td>
+        <td>Power ON light</td>
+    </tr> 
+    <tr>
+        <td>4</td>
+        <td>IR-VCC</td>
+        <td>IR-VCC</td>
+        <td>IR-VCC power</td>
+    </tr> 
+    <tr>
+        <td>5</td>
+        <td>GND</td>
+        <td>GND</td>
+        <td>GND</td>
+    </tr> 
+    <tr>
+        <td>6</td>
+        <td>IR</td>
+        <td>IR signal</td>
+        <td>IR signal</td>
+    </tr>                          
+</table>
+
+3. IIC Touch interface(JP1-10P/0.5)
+<table border="1">
+    <tr>
+        <td>No.</td>
+        <td>definition</td>
+        <td>attribute</td>
+        <td>Description</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>GND</td>
+        <td>GND</td>
+        <td>GND</td>
+    </tr> 
+    <tr>
+        <td>2</td>
+        <td>GND</td>
+        <td>GND</td>
+        <td>GND</td>
+    </tr>  
+    <tr>
+        <td>3</td>
+        <td>RST</td>
+        <td>input/output</td>
+        <td>Reset</td>
+    </tr> 
+    <tr>
+        <td>4</td>
+        <td>INT</td>
+        <td>input/output</td>
+        <td>interrupt</td>
+    </tr> 
+    <tr>
+        <td>5</td>
+        <td>GND</td>
+        <td>GND</td>
+        <td>GND</td>
+    </tr> 
+    <tr>
+        <td>6</td>
+        <td>SCL</td>
+        <td>iic clock</td>
+        <td>iic clock</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>SDA</td>
+        <td>iic data</td>
+        <td>iic data</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>VCC</td>
+        <td>power</td>
+        <td>power suplly</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>GND</td>
+        <td>GND</td>
+        <td>GND</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>GND</td>
+        <td>GND</td>
+        <td>GND</td>
+    </tr>                                      
 </table>
 
 # 
