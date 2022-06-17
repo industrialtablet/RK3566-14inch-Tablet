@@ -178,7 +178,7 @@ RK3566 14inch Tablet Specifications Sheet
 </table>
 
 #
-# [YF-023D RK3566 SBC/mainboard/motherboard Specifications Sheet](YF-023D.md)
+# [YF-023D RK3566 SBC/mainboard/motherboard Specifications Sheet](YF-023D_RK3566_SBC.md)
  
 # <a href="https://youtu.be/Fi_gvhEwSR4">Aging and test video</a>
  
