@@ -6,6 +6,7 @@ This is the documentation for RK3566 14inch Tablet products, written by RSD Team
 ![RK3566 14inch Tablet Front View](RK3566_14inch_tablet_front_view.png?raw=true)
 #
 # RK3566 14inch Tablet MainBoard
+- [YF-023D RK3566 SBC/mainboard/motherboard Specifications Sheet](YF-023D_RK3566_SBC.md)
 ![RK3566 14inch Tablet MainBoard](YF0-23D_RK3566_SBC_TOP_view.png?raw=true)
 # 
 RK3566 14inch Tablet Specifications Sheet
@@ -181,7 +182,6 @@ RK3566 14inch Tablet Specifications Sheet
 </table>
 
 #
-# [YF-023D RK3566 SBC/mainboard/motherboard Specifications Sheet](YF-023D_RK3566_SBC.md)
  
 # <a href="https://youtu.be/Fi_gvhEwSR4">Aging and test video</a>
  
