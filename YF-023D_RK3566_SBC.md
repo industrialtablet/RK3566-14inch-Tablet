@@ -1,9 +1,9 @@
 # YF-023D RK3566 SBC/mainboard/motherboard Documents
 This is the documentation for RK3566 14inch Tablet products, written by RSD Team of HYY Technology Co.,Ltd.
 
-# YF-023D RK3566 SBC/mainboard/motherboard TOP View
+## YF-023D RK3566 SBC/mainboard/motherboard TOP View
 ![YF-023D RK3566 SBC TOP View](YF0-23D_RK3566_SBC_TOP_view.png?raw=true)
-# YF-023D RK3566 SBC/mainboard/motherboard PCB SIZE
+## YF-023D RK3566 SBC/mainboard/motherboard PCB SIZE
 ![YF-023D RK3566 SBC PCB SIZE](YF0-23D_RK3566_SBC_PCB_SIZE.jpg?raw=true)
 #
 
@@ -220,6 +220,29 @@ This is the documentation for RK3566 14inch Tablet products, written by RSD Team
     </tr>                           
 </table>
 
+## Interface Pin definition
+BAT1 RTC(J2)
+<table border="1">
+    <tr bgcolor="#C0FF3E">
+        <td>No.</td>
+        <td>definition</td>
+        <td>attribute</td>
+        <td>Description</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>RTC</td>
+        <td>INPUT</td>
+        <td>3.3V power supply</td>
+    </tr> 
+    <tr>
+        <td>2</td>
+        <td>GND</td>
+        <td>GND</td>
+        <td>GND</td>
+    </tr>       
+</table>
+
 # 
 <a href="https://youtu.be/Fi_gvhEwSR4">Aging and test video</a>
 # 
@@ -228,12 +251,12 @@ This is the documentation for RK3566 14inch Tablet products, written by RSD Team
 <a href="https://youtu.be/Fi_gvhEwSR4">Install software from googlePlay video</a>
 
 # 
-# Accessories
+## Accessories
 
-# How Order
+## How Order
 Send your message to sales team: **<export8@we-signage.com>**
 
-# Contacts
+## Contacts
 - Website: www.we-signage.com
 - https://we-signage.en.made-in-china.com/
 - E-mail: dennis@we-signage.com
