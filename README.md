@@ -21,7 +21,7 @@ RK3566 14inch Tablet Specifications Sheet
     <tr>
         <td rowspan="5">System</td>
         <td>CPU</td>
-        <td>Rockchip RK3566 64bit Quad core processor, CPU:Quad core Arm Cortex-A55(1.8G), GPU: Mali-G52EE GPU</td>
+        <td>Rockchip RK3566 64bit Quad core processor, CPU:Quad core Arm Cortex-A55(1.8G), GPU: Mali-G52EE GPU, NPU: 1TOPS NPU</td>
     </tr>
     <tr>
         <td>RAM</td>
