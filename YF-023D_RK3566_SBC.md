@@ -17,7 +17,7 @@ This is the documentation for RK3566 14inch Tablet products, written by RSD Team
 YF-023D RK3566 SBC/mainboard/motherboard Specifications Sheet
 <table border="1">
     <tr>
-        <td colspan="3">Model NO. YF-023D </td>
+        <td colspan="3">Model NO. YF-023D RK3566</td>
     </tr>
     <tr>
         <td>Product Type</td>
