@@ -182,11 +182,11 @@ RK3566 14inch Tablet Specifications Sheet
 </table>
 
 #
- 
+
 # <a href="https://youtu.be/Fi_gvhEwSR4">Aging and test video</a>
- 
+
 # <a href="https://youtu.be/Fi_gvhEwSR4">Open and power-on product video</a>
- 
+
 # <a href="https://youtu.be/Fi_gvhEwSR4">Install software from googlePlay video</a>
 
 # Accessories
@@ -201,7 +201,32 @@ RK3566 14inch Tablet Specifications Sheet
 # How Order
 Send your message to sales team: **<export8@we-signage.com>**
 
+
+
+## Get More technical Support
+
+###### RK3588 Development Board
+
+\- [RK3588 Development Board](https://github.com/industrialtablet/RK3588-Development-Board)
+
+###### ota upgrade tools(otaStar) and server
+
+\- [RK3566/RK3568/RK3588 Android OTA upgrade tools and server](https://github.com/tablet-pc/otastar)
+
+###### How Qt5.14.2 cross-compile
+
+\- [RK3588 Qt5.14.2 cross-compile for Ubuntu and Debian Linux OS](https://github.com/pengyixing/qt-everywhere-src-5.14.2-cross-compile-for-RK3566-RK3568-RK3588)
+
+Build Videorecorder Bundle use Networkoptix Client on HYY H-3588 Tablet
+
+\- [Build Videorecorder Bundle use Networkoptix Client](https://github.com/industrialtablet/Build-Videorecorder-Bundle-use-Networkoptix-Client-on-HYY-RK3566-Tablet)
+
+Build new ubuntu rootfs for HYY H-3588 Tablet
+
+-[Build new ubuntu rootfs for RK3566 RK3568 RK3588 products](https://github.com/industrialtablet/Re-build-ubuntu20.04-rootfs-for-RK3566-RK3568-RK3588)
+
 # Contacts
+
 - Website: www.we-signage.com
 - https://we-signage.en.made-in-china.com/
 - E-mail: dennis@we-signage.com
