@@ -6,8 +6,8 @@ This is the documentation for RK3566 14inch Tablet products, written by RSD Team
 ![RK3566 14inch Tablet Front View](./Documents/RK3566_14inch_tablet_front_view.png?raw=true)
 #
 # RK3566 14inch Tablet MainBoard
-![RK3566 14inch Tablet MainBoard](YF-023D_RK3566_SBC_Product_view.png?raw=true)
-[YF-023D RK3566 SBC/mainboard/motherboard Specifications Sheet](YF-023D_RK3566_SBC.md)
+![RK3566 14inch Tablet MainBoard](./Documents/YF-023D_RK3566_SBC_Product_view.png?raw=true)
+[YF-023D RK3566 SBC/mainboard/motherboard Specifications Sheet](./Documents/YF-023D_RK3566_SBC.md)
 # 
 RK3566 14inch Tablet Specifications Sheet
 <table border="1">
@@ -190,13 +190,13 @@ RK3566 14inch Tablet Specifications Sheet
 # <a href="https://youtu.be/Fi_gvhEwSR4">Install software from googlePlay video</a>
 
 # Accessories
-![RK3566 14inch Tablet Accessories 1](RK3566_14inch_tablet_accessories1.png?raw=true)
+![RK3566 14inch Tablet Accessories 1](./Documents/RK3566_14inch_tablet_accessories1.png?raw=true)
 
-![RK3566 14inch Tablet Accessories 2](RK3566_14inch_tablet_accessories2.png?raw=true)
+![RK3566 14inch Tablet Accessories 2](./Documents/RK3566_14inch_tablet_accessories2.png?raw=true)
 
-![RK3566 14inch Tablet Accessories 3](RK3566_14inch_tablet_accessories3.png?raw=true)
+![RK3566 14inch Tablet Accessories 3](./Documents/RK3566_14inch_tablet_accessories3.png?raw=true)
 
-![RK3566 14inch Tablet Accessories 4](RK3566_14inch_tablet_accessories4.png?raw=true)
+![RK3566 14inch Tablet Accessories 4](./Documents/RK3566_14inch_tablet_accessories4.png?raw=true)
 
 # How Order
 Send your message to sales team: **<export8@we-signage.com>**
