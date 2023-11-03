@@ -1,7 +1,12 @@
 # RK3566 14inch Tablet
 This is the documentation for RK3566 14inch Tablet products, written by RSD Team of HYY Technology Co.,Ltd.
 
-# Product information: "HYY Touch Display Tablet 14 Zoll PoE mit 2GB/16GB, RK3566 Android 11"
+# Product information: 
+"HYY Touch Display Tablet 14 Zoll PoE mit 2GB/16GB, RK3566 Android 11"
+"HYY Touch Display Tablet 14 Zoll PoE mit 4GB/32GB, RK3566 Android 11"
+"HYY Touch Display Tablet 14 Zoll PoE mit 2GB/16GB, RK3566 Android 13"
+"HYY Touch Display Tablet 14 Zoll PoE mit 4GB/32GB, RK3566 Android 13"
+
 # RK3566 14inch Tablet Front View
 ![RK3566 14inch Tablet Front View](./Documents/RK3566_14inch_tablet_front_view.png?raw=true)
 #
@@ -33,7 +38,7 @@ RK3566 14inch Tablet Specifications Sheet
     </tr>
     <tr>
         <td>System</td>
-        <td>Android 11, Debian, Linux</td>
+        <td>Android13, Android 11, Debian, Linux</td>
     </tr> 
     <tr>
         <td>Touch screen</td>
