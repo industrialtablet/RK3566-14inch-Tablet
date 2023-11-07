@@ -1,7 +1,7 @@
 # RK3566 14inch Industrial Android Tablet
 **● 10 points projected capacitive touch screen**
 
-**● Quad Core Cortex A55 @1.8GHz, Android13.0,  Android 11.0 linux Ubuntu OS or linux Debian OS**
+**● Quad Core Cortex A55 @1.8GHz, Android13.0,  Android 11.0, linux Ubuntu OS or linux Debian OS**
 
 **● 2GB RAM, 16GB eMMc flash, external expansion storage Micro SD card (max.256GB)**
 
