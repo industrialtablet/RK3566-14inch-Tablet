@@ -1,7 +1,7 @@
 # RK3566 14inch Industrial Android Tablet
 <table border="0">
     <tr>
-        <td><strong>10points projected capacitive touch screen</strong></td>
+        <td style="font-size:20px"><strong>10 points projected capacitive touch screen</strong></td>
     </tr>
 </table>
 
