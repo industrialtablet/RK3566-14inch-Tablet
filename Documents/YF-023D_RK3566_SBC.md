@@ -38,7 +38,7 @@ YF-023D RK3566 SBC/mainboard/motherboard Specifications Sheet
     </tr>
     <tr>
         <td>System</td>
-        <td>Android 11, Debian, Ubuntu, Linux</td>
+        <td>Android 13, Android 11, Debian, Ubuntu, Linux</td>
     </tr> 
     <tr>
         <td>Touch screen</td>
