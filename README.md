@@ -1,5 +1,9 @@
-# RK3566 14inch Tablet
-This is the documentation for RK3566 14inch Tablet products, written by RSD Team of HYY Technology Co.,Ltd.
+# RK3566 14inch Industrial Android Tablet
+<table border="0">
+    <tr>
+        <td><strong>10points projected capacitive touch screen</strong></td>
+    </tr>
+</table>
 
 # Product information: 
 #### "HYY Touch Display Tablet 14 Zoll PoE mit 2GB/16GB, RK3566 Android 11"
