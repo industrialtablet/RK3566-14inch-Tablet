@@ -38,7 +38,7 @@ RK3566 14inch Tablet Specifications Sheet
     </tr>
     <tr>
         <td>System</td>
-        <td>Android13, Android 11, Debian, Linux</td>
+        <td>Android13, Android 11, Ubuntu, Debian, Linux</td>
     </tr> 
     <tr>
         <td>Touch screen</td>
@@ -169,7 +169,7 @@ RK3566 14inch Tablet Specifications Sheet
     </tr>
     <tr>
         <td>Certificates</td>
-        <td>CE</td>
+        <td>CE, GMS Certificated, Google Certificated</td>
     </tr>
     <tr>
         <td rowspan="3">Accessories</td>
