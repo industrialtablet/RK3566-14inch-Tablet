@@ -1,9 +1,17 @@
 # RK3566 14inch Industrial Android Tablet
-<table border="0">
-    <tr>
-        <td style="font-size:20px"><strong>10 points projected capacitive touch screen</strong></td>
-    </tr>
-</table>
+**● 10 points projected capacitive touch screen**
+
+**● Quad Core Cortex A55 @1.8GHz, Android13.0 Android 11.0 or linux Debian OS**
+
+**● 2GB RAM, 16GB eMMc flash, external expansion storage Micro SD card (max.256GB)**
+
+**● Metal frame(Option), support customizing wall mount**
+
+**● USB, Micro SD, external storage, support program playback**
+
+**● Built-in WiFi, Body-Sensor, LAN interface(POE) and Front camera(optional)**
+
+**● Designed for retail, interactive communication, desk display etc.**
 
 # Product information: 
 #### "HYY Touch Display Tablet 14 Zoll PoE mit 2GB/16GB, RK3566 Android 11"
