@@ -25,7 +25,7 @@
 # RK3566 14inch Tablet MainBoard
 ![RK3566 14inch Tablet MainBoard](./Documents/YF-023D_RK3566_SBC_Product_view.png?raw=true)
 [YF-023D RK3566 SBC/mainboard/motherboard Specifications Sheet](./Documents/YF-023D_RK3566_SBC.md)
-[SKI.WB800D80S.1 Wi-Fi Module Specification_V2](./Documents/SKI.WB800D80S.1%20Wi-Fi%20Module/SKI.WB800D80S.1_Specification_V2.1.pdf)
+
 # 
 
 ## Japan-Ready Wireless Option
@@ -113,7 +113,7 @@ RK3566 14inch Tablet Specifications Sheet
     </tr>  
     <tr>
         <td>Ethernet</td>
-        <td>10M/100M Ethernet with POE</td>
+        <td>10M/100M/1000M Ethernet with POE</td>
     </tr>
     <tr>
         <td>Bluetooth</td>
