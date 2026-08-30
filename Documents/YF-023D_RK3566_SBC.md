@@ -56,7 +56,7 @@ YF-023D RK3566 SBC/mainboard/motherboard Specifications Sheet
     <tr>
         <td rowspan="4">Network</td>
         <td>WiFi</td>
-        <td>802.11b/g/n 2.4/5GHz(Dongle Option)</td>
+        <td>Optional integrated SKI.WB800D80S.1 Wi-Fi 6 module: IEEE 802.11a/b/g/n/ac/ax, dual-band 2.4/5 GHz, 1T1R, 20/40/80 MHz, up to 600.4 Mbps PHY rate</td>
     </tr>   
     <tr>
         <td>4G</td>
@@ -68,7 +68,7 @@ YF-023D RK3566 SBC/mainboard/motherboard Specifications Sheet
     </tr>
     <tr>
         <td>Bluetooth</td>
-        <td>Bluetooth 4.1</td>
+        <td>Bluetooth 5.3, integrated with the optional Wi-Fi 6 module</td>
     </tr>  
     <tr>
         <td rowspan="7">External Interface</td>
@@ -210,7 +210,7 @@ YF-023D RK3566 SBC/mainboard/motherboard Specifications Sheet
     </tr>
     <tr>
         <td>Certificates</td>
-        <td>CE</td>
+        <td>CE. Optional SKI.WB800D80S.1 wireless module: TELEC Certification No. R210-260324 for Japan (module-level certification).</td>
     </tr>
     <tr>
         <td rowspan="3">Accessories</td>

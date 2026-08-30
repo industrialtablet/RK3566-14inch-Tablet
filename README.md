@@ -9,7 +9,7 @@
 
 **● USB, Micro SD, external storage, support program playback**
 
-**● Built-in WiFi, Body-Sensor, LAN interface(POE) and Front camera(optional)**
+**● Built-in Wi-Fi 6 and Bluetooth 5.3 with the optional Japan-ready wireless configuration, plus Body Sensor, PoE LAN and optional front camera**
 
 **● Designed for retail, interactive communication, desk display etc.**
 
@@ -25,7 +25,20 @@
 # RK3566 14inch Tablet MainBoard
 ![RK3566 14inch Tablet MainBoard](./Documents/YF-023D_RK3566_SBC_Product_view.png?raw=true)
 [YF-023D RK3566 SBC/mainboard/motherboard Specifications Sheet](./Documents/YF-023D_RK3566_SBC.md)
+[SKI.WB800D80S.1 Wi-Fi Module Specification_V2](./Documents/SKI.WB800D80S.1%20Wi-Fi%20Module/SKI.WB800D80S.1_Specification_V2.1.pdf)
 # 
+
+## Japan-Ready Wireless Option
+
+Configure the tablet with the SKI.WB800D80S.1 wireless module for reliable dual-band connectivity in Japan-focused deployments. The compact module combines Wi-Fi 6 and Bluetooth in one solution, helping reduce integration complexity for retail, self-service, digital signage and interactive-display projects.
+
+- Dual-band Wi-Fi 6: IEEE 802.11 a/b/g/n/ac/ax, 2.4 GHz and 5 GHz, 1T1R, 20/40/80 MHz, with a PHY data rate up to 600.4 Mbps.
+- Integrated Bluetooth 5.3 for wireless peripherals and short-range device connectivity.
+- TELEC-certified module for Japan: Certification No. R210-260324, issued 22 January 2026. The supporting reports cover Bluetooth, BLE, 2.4 GHz WLAN and 5 GHz RLAN.
+- Certification applies to the SKI.WB800D80S.1 module in its tested configuration. Final host-product compliance and labeling must be confirmed for the finished tablet and its selected antenna configuration.
+
+[Wi-Fi module specification](./Documents/SKI.WB800D80S.1%20Wi-Fi%20Module/SKI.WB800D80S.1_Specification_V2.1.pdf) | [TELEC certificate](./Documents/SKI.WB800D80S.1%20Wi-Fi%20Module/TELEC%20Japan/JING109_JP_Cert-TELEC%E8%AF%81%E4%B9%A6.pdf) | [BT test report](./Documents/SKI.WB800D80S.1%20Wi-Fi%20Module/TELEC%20Japan/Test%20Report/JCF251201101-007%20Notification%20No.88%20%20BT.pdf) | [BLE test report](./Documents/SKI.WB800D80S.1%20Wi-Fi%20Module/TELEC%20Japan/Test%20Report/JCF251201101-008%20Notification%20No.88%20BLE.pdf) | [2.4 GHz WLAN test report](./Documents/SKI.WB800D80S.1%20Wi-Fi%20Module/TELEC%20Japan/Test%20Report/JCF251201101-009%20Notification%20No.88%202.4G%20WLAN.pdf) | [5 GHz RLAN test report](./Documents/SKI.WB800D80S.1%20Wi-Fi%20Module/TELEC%20Japan/Test%20Report/JCF251201101-010%20Notification%20No.88%20%205G%20RLAN.pdf)
+
 RK3566 14inch Tablet Specifications Sheet
 <table border="1">
     <tr>
@@ -92,7 +105,7 @@ RK3566 14inch Tablet Specifications Sheet
     <tr>
         <td rowspan="4">Network</td>
         <td>WiFi</td>
-        <td>802.11b/g/n 2.4/5GHz(Dongle Option)</td>
+        <td>Optional integrated SKI.WB800D80S.1 Wi-Fi 6 module: IEEE 802.11a/b/g/n/ac/ax, dual-band 2.4/5 GHz, 1T1R, 20/40/80 MHz, up to 600.4 Mbps PHY rate</td>
     </tr>   
     <tr>
         <td>4G</td>
@@ -104,7 +117,7 @@ RK3566 14inch Tablet Specifications Sheet
     </tr>
     <tr>
         <td>Bluetooth</td>
-        <td>Bluetooth 4.1</td>
+        <td>Bluetooth 5.3, integrated with the optional Wi-Fi 6 module</td>
     </tr>  
     <tr>
         <td rowspan="6">Interface</td>
@@ -181,7 +194,7 @@ RK3566 14inch Tablet Specifications Sheet
     </tr>
     <tr>
         <td>Certificates</td>
-        <td>CE, GMS Certificated, Google Certificated</td>
+        <td>CE, GMS Certified, Google Certified. Optional SKI.WB800D80S.1 wireless module: TELEC Certification No. R210-260324 for Japan (module-level certification).</td>
     </tr>
     <tr>
         <td rowspan="3">Accessories</td>
