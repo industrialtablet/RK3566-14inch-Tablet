@@ -20,11 +20,12 @@
 #### "HYY Touch Display Tablet 14 Zoll PoE mit 4GB/32GB, RK3566 Android 13"
 
 # RK3566 14inch Tablet Front View
-![RK3566 14inch Tablet Front View](./Documents/RK3566_14inch_tablet_front_view.png?raw=true)
+![RK3566 14inch Tablet Front View](./Documents/YF-023D-SBC/RK3566_14inch_tablet_front_view.png?raw=true)
 #
 # RK3566 14inch Tablet MainBoard
-![RK3566 14inch Tablet MainBoard](./Documents/YF-023D_RK3566_SBC_Product_view.png?raw=true)
+![RK3566 14inch Tablet MainBoard](./Documents/YF-023D-SBC/YF-023D_RK3566_SBC_Product_view.png?raw=true)
 [YF-023D RK3566 SBC/mainboard/motherboard Specifications Sheet](./Documents/YF-023D_RK3566_SBC.md)
+[ZC-3566 (LPDDR3) SBC/Mainboard Specification](./Documents/ZC_3566_SBC.md)
 
 # 
 
@@ -220,13 +221,13 @@ RK3566 14inch Tablet Specifications Sheet
 # <a href="https://youtu.be/Fi_gvhEwSR4">Install software from googlePlay video</a>
 
 # Accessories
-![RK3566 14inch Tablet Accessories 1](./Documents/RK3566_14inch_tablet_accessories1.png?raw=true)
+![RK3566 14inch Tablet Accessories 1](./Documents/YF-023D-SBC/RK3566_14inch_tablet_accessories1.png?raw=true)
 
-![RK3566 14inch Tablet Accessories 2](./Documents/RK3566_14inch_tablet_accessories2.png?raw=true)
+![RK3566 14inch Tablet Accessories 2](./Documents/YF-023D-SBC/RK3566_14inch_tablet_accessories2.png?raw=true)
 
-![RK3566 14inch Tablet Accessories 3](./Documents/RK3566_14inch_tablet_accessories3.png?raw=true)
+![RK3566 14inch Tablet Accessories 3](./Documents/YF-023D-SBC/RK3566_14inch_tablet_accessories3.png?raw=true)
 
-![RK3566 14inch Tablet Accessories 4](./Documents/RK3566_14inch_tablet_accessories4.png?raw=true)
+![RK3566 14inch Tablet Accessories 4](./Documents/YF-023D-SBC/RK3566_14inch_tablet_accessories4.png?raw=true)
 
 # How Order
 Send your message to sales team: **<export8@we-signage.com>**

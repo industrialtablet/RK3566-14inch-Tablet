@@ -2,16 +2,16 @@
 This is the documentation for RK3566 14inch Tablet products, written by RSD Team of HYY Technology Co.,Ltd.
 
 ## YF-023D RK3566 SBC/mainboard/motherboard Product View
-![YF-023D RK3566 SBC Product View](YF-023D_RK3566_SBC_Product_view.png?raw=true)
+![YF-023D RK3566 SBC Product View](YF-023D-SBC/YF-023D_RK3566_SBC_Product_view.png?raw=true)
 
 ## YF-023D RK3566 SBC/mainboard/motherboard PCB TOP View
-![YF-023D RK3566 SBC PCB TOP View](YF-023D_RK3566_SBC_PCB_TOP_view.png?raw=true)
+![YF-023D RK3566 SBC PCB TOP View](YF-023D-SBC/YF-023D_RK3566_SBC_PCB_TOP_view.png?raw=true)
 
 ## YF-023D RK3566 SBC/mainboard/motherboard PCB BUTTOM View
-![YF-023D RK3566 SBC PCB BUTTOM View](YF-023D_RK3566_SBC_PCB_BUTTOM_view.png?raw=true)
+![YF-023D RK3566 SBC PCB BUTTOM View](YF-023D-SBC/YF-023D_RK3566_SBC_PCB_BUTTOM_view.png?raw=true)
 
 ## YF-023D RK3566 SBC/mainboard/motherboard PCB SIZE
-![YF-023D RK3566 SBC PCB SIZE](YF-023D_RK3566_SBC_PCB_SIZE.jpg?raw=true)
+![YF-023D RK3566 SBC PCB SIZE](YF-023D-SBC/YF-023D_RK3566_SBC_PCB_SIZE.jpg?raw=true)
 #
 
 YF-023D RK3566 SBC/mainboard/motherboard Specifications Sheet
