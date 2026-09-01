@@ -2,7 +2,7 @@
 
 | Item | Details |
 | --- | --- |
-| Product | ZC-3566 (LPDDR3) intelligent mainboard |
+| Product | ZC-3566 intelligent mainboard |
 | Document version | V5.1 |
 | Release status | Mass production |
 | Reference release date | 2026.05 |
